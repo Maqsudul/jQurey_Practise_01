@@ -1,0 +1,14 @@
+#div1,#div2,#div3{
+    height: 150px;
+    width: 150px;
+    display: none;
+}
+#div1{
+background-color: greenyellow;
+}
+#div2{
+    background-color: blueviolet;
+}
+#div3{
+    background-color: crimson;
+}
